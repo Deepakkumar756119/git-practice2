@@ -1,0 +1,6 @@
+bus
+truck
+aeroplane
+air jet
+aircraft
+car

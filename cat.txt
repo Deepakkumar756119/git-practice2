@@ -1,0 +1,9 @@
+truck
+bus 
+car
+train
+aeroplane
+helicaptor
+air jet
+fighter jet
+aircraft
